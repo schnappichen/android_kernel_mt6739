@@ -1,2 +1,0 @@
-
-/*external display dummy driver*/
